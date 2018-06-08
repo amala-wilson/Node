@@ -1,0 +1,12 @@
+Before following the steps below to execute the code, make sure all the necessary software needed to run a Node application is installed
+
+Steps to execute the code:
+1. Open up Terminal window and navigate to the directory where the project is located
+2. Type in "nodemon server.js" at the command prompt
+3. Navigate to the following URLS to see the capability of a node server:
+	a. localhost:7077/cars 
+		go to a simple HTML page that shows some cool pictures of different cars
+	b. localhost:7077/cats 
+		show a simple HTML page with some cool pictures of cats    
+	c. localhost:7077/cars/new 
+		show a simple form where the user can add a new car information
