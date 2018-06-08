@@ -1,5 +1,5 @@
 var my_mathlib = require('mathlib')();
-// console.log(my_mathlib)
+console.log(my_mathlib)
 let sum = my_mathlib.add(2,3);
 console.log("The sum is "+sum);
 let product = my_mathlib.multiply(3,5);
