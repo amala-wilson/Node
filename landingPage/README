@@ -1,0 +1,9 @@
+Before following the steps below to execute the code, make sure all the necessary software needed to run a Node application is installed
+
+Steps to execute the code:
+1. Open up Terminal window and navigate to the directory where the project is located
+2. Type in "nodemon server.js" at the command prompt
+3. Navigate to the following URLS to see the capability of a node server:
+	localhost:6789/    This route should serve a view file called index.html and display a greeting.
+	localhost:6789/ninjas    This route should serve a view file called ninjas.html and display information about ninjas.
+	localhost:6789/dojos/new    This route should serve a view file called dojos.html and have a form (don't worry about where the form should be sent to).
